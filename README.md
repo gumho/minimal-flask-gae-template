@@ -9,4 +9,4 @@ Instructions:
 2. Load up the containing folder into GAE
 3. Done.
 
-**Note**: Comes with Flask 0.8 and dependencies (werkzeug, jinja2, simplejson)
+**Note**: Comes with Flask 0.9 and dependencies (werkzeug, jinja2, simplejson)

@@ -7,10 +7,9 @@ Instructions:
 
 1. Replace "myapp" name in the following files:
 
-	application/
-		main.py
-		views.py
-		app.yaml
+	main.py
+	views.py
+	app.yaml
 
 2. Load up the containing folder into GAE
 3. Done.

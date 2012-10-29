@@ -5,8 +5,14 @@ The bare minimum Flask template for Google App Engine
 
 Instructions:
 
-1. Edit your application name in app.yaml
+1. Replace "myapp" name in the following files:
+
+	application/
+		main.py
+		views.py
+		app.yaml
+
 2. Load up the containing folder into GAE
 3. Done.
 
-**Note**: Comes with Flask 0.9 and dependencies (werkzeug, jinja2, simplejson)
+**Note**: Comes with Flask 0.9 and dependencies (werkzeug, simplejson)
